@@ -6,7 +6,7 @@
     font-family: 'Roboto', sans-serif;
 }
 header{
-    background-image: url('/images/top-banner.png');
+    background-image: url('./images/top-banner.png');
     background-repeat: no-repeat;
 }
 .meinsection{
